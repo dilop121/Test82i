@@ -118,13 +118,12 @@ A telegraph bot by @HONEY_SINGH_121
 
 <b>Language</b> - <a href="https://go.dev">Golang</a>
 
-<b>Telegraph Library</b> - https://github.com/StarkBotsIndustries/telegraph
+<b>Telegraph Library</b> - https://t.me/AAROHI_SUPPORT_CHAT
 
 <b>Source Code</b> - <a href="https://t.me/DEAD_PERSON_2022">GitHub Repository</a>
 
 <b>Usage Guide</b> - %v
 
-<b>Telegram Library</b> - <a href="https://github.com/PaulSonOfLars/gotgbot">gotgbot</a>
 
 Developed with ❤️ by @HONEY_SINGH_121
 `, guideLink)
