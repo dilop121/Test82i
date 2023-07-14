@@ -114,19 +114,19 @@ Still here? It's not optional. Go read it.
 `, guideLink)
 
 var aboutMessage = fmt.Sprintf(`
-A telegraph bot by @StarkBots
+A telegraph bot by @HONEY_SINGH_121
 
 <b>Language</b> - <a href="https://go.dev">Golang</a>
 
 <b>Telegraph Library</b> - https://github.com/StarkBotsIndustries/telegraph
 
-<b>Source Code</b> - <a href="https://github.com/StarkBotsIndustries/Telegraph-Go-Bot">GitHub Repository</a>
+<b>Source Code</b> - <a href="https://t.me/DEAD_PERSON_2022">GitHub Repository</a>
 
 <b>Usage Guide</b> - %v
 
 <b>Telegram Library</b> - <a href="https://github.com/PaulSonOfLars/gotgbot">gotgbot</a>
 
-Developed with ❤️ by @StarkProgrammer
+Developed with ❤️ by @HONEY_SINGH_121
 `, guideLink)
 
 var htmlTutMessage = `
@@ -150,14 +150,14 @@ var homeButtons = [][]gotgbot.InlineKeyboardButton{{
 
 var mainButtons = [][]gotgbot.InlineKeyboardButton{
 	{
-		{Text: "✨ Bot Status and More Bots ✨", Url: "https://t.me/StarkBots/7"},
+		{Text: "ᴏᴡɴᴇʀ", Url: "https://t.me/DEAD_PERSON_2022"},
 	},
 	{
-		{Text: "How to Use ❔", CallbackData: "help"},
-		{Text: "🎪 About 🎪", CallbackData: "about"},
+		{Text: "ᴜsᴇs", CallbackData: "help"},
+		{Text: "ᴀʙᴏᴜᴛ", CallbackData: "about"},
 	},
 	{
-		{Text: "♥ More Amazing bots ♥", Url: "https://t.me/StarkBots"},
+		{Text: "sᴜᴘᴘᴏʀᴛ", Url: "https://t.me/AAROHI_SUPPORT_CHAT"},
 	},
 }
 
