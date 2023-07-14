@@ -150,7 +150,7 @@ var homeButtons = [][]gotgbot.InlineKeyboardButton{{
 
 var mainButtons = [][]gotgbot.InlineKeyboardButton{
 	{
-		{Text: "ᴏᴡɴᴇʀ", Url: "https://t.me/DEAD_PERSON_2022"},
+		{Text: "🥰ᴏᴡɴᴇʀ🥰", Url: "https://t.me/DEAD_PERSON_2022"},
 	},
 	{
 		{Text: "ᴜsᴇs", CallbackData: "help"},
